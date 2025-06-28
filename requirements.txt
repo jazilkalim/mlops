@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+torch
+pillow
+pyngrok
+nest_asyncio
+python_multipart
